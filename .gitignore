@@ -1,0 +1,6 @@
+# Ignore environments
+env/
+.venv/
+.conda/
+__pycache__/
+.ipynb_checkpoints/
