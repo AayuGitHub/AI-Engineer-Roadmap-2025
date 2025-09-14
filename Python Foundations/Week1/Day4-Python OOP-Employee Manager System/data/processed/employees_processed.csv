@@ -1,0 +1,1471 @@
+ID,Dept,Salary,Attrition,AnnualSalary
+1,Sales,5993,Yes,71916
+2,Research & Development,5130,No,61560
+4,Research & Development,2090,Yes,25080
+5,Research & Development,2909,No,34908
+7,Research & Development,3468,No,41616
+8,Research & Development,3068,No,36816
+10,Research & Development,2670,No,32040
+11,Research & Development,2693,No,32316
+12,Research & Development,9526,No,114312
+13,Research & Development,5237,No,62844
+14,Research & Development,2426,No,29112
+15,Research & Development,4193,No,50316
+16,Research & Development,2911,No,34932
+18,Research & Development,2661,No,31932
+19,Research & Development,2028,Yes,24336
+20,Research & Development,9980,No,119760
+21,Research & Development,3298,No,39576
+22,Research & Development,2935,No,35220
+23,Sales,15427,No,185124
+24,Research & Development,3944,No,47328
+26,Research & Development,4011,No,48132
+27,Sales,3407,Yes,40884
+28,Research & Development,11994,No,143928
+30,Research & Development,1232,No,14784
+31,Research & Development,2960,Yes,35520
+32,Research & Development,19094,No,229128
+33,Research & Development,3919,Yes,47028
+35,Sales,6825,No,81900
+36,Research & Development,10248,No,122976
+38,Sales,18947,No,227364
+39,Research & Development,2496,No,29952
+40,Research & Development,6465,No,77580
+41,Research & Development,2206,No,26472
+42,Sales,2086,Yes,25032
+45,Research & Development,2293,Yes,27516
+46,Research & Development,2645,No,31740
+47,Sales,2683,Yes,32196
+49,Sales,2014,No,24168
+51,Research & Development,3419,No,41028
+52,Sales,5376,No,64512
+53,Research & Development,1951,No,23412
+54,Research & Development,2341,No,28092
+55,Research & Development,2293,Yes,27516
+56,Sales,8726,No,104712
+57,Research & Development,4011,No,48132
+58,Research & Development,19545,Yes,234540
+60,Sales,4568,No,54816
+61,Research & Development,3022,No,36264
+62,Sales,5772,No,69264
+63,Research & Development,2269,No,27228
+64,Research & Development,5381,Yes,64572
+65,Research & Development,3441,Yes,41292
+68,Sales,5454,No,65448
+70,Research & Development,9884,No,118608
+72,Sales,4157,No,49884
+73,Research & Development,13458,No,161496
+74,Sales,9069,No,108828
+75,Research & Development,4014,No,48168
+76,Research & Development,5915,No,70980
+77,Research & Development,5993,No,71916
+78,Research & Development,6162,No,73944
+79,Research & Development,2406,No,28872
+80,Research & Development,18740,No,224880
+81,Sales,7637,No,91644
+83,Research & Development,10096,No,121152
+84,Research & Development,14756,No,177072
+85,Research & Development,6499,No,77988
+86,Research & Development,9724,No,116688
+88,Research & Development,2194,No,26328
+90,Research & Development,3388,Yes,40656
+91,Sales,5473,No,65676
+94,Research & Development,2703,No,32436
+95,Research & Development,2501,No,30012
+96,Research & Development,6220,No,74640
+97,Research & Development,3038,No,36456
+98,Research & Development,4424,No,53088
+100,Sales,4312,No,51744
+101,Research & Development,13245,No,158940
+102,Research & Development,13664,No,163968
+103,Human Resources,5021,No,60252
+104,Research & Development,5126,No,61512
+105,Research & Development,2859,No,34308
+106,Sales,10239,No,122868
+107,Research & Development,5329,No,63948
+110,Research & Development,4325,No,51900
+112,Research & Development,7260,No,87120
+113,Sales,2322,No,27864
+116,Research & Development,2075,No,24900
+117,Research & Development,4152,No,49824
+118,Sales,9619,Yes,115428
+119,Research & Development,13503,No,162036
+120,Sales,5441,No,65292
+121,Sales,5209,No,62508
+124,Research & Development,10673,No,128076
+125,Sales,5010,No,60120
+126,Research & Development,13549,No,162588
+128,Sales,4999,No,59988
+129,Sales,4221,No,50652
+131,Sales,13872,No,166464
+132,Research & Development,2042,No,24504
+133,Human Resources,2073,Yes,24876
+134,Research & Development,2956,No,35472
+137,Research & Development,2926,Yes,35112
+138,Research & Development,4809,No,57708
+139,Research & Development,5163,No,61956
+140,Human Resources,18844,No,226128
+141,Research & Development,18172,No,218064
+142,Sales,5744,Yes,68928
+143,Research & Development,2889,No,34668
+144,Research & Development,2871,No,34452
+145,Research & Development,7484,No,89808
+147,Research & Development,6074,Yes,72888
+148,Human Resources,17328,No,207936
+150,Research & Development,2774,No,33288
+151,Research & Development,4505,No,54060
+152,Sales,7428,No,89136
+153,Research & Development,11631,No,139572
+154,Sales,9738,No,116856
+155,Research & Development,2835,No,34020
+158,Sales,16959,No,203508
+159,Research & Development,2613,No,31356
+160,Sales,6146,No,73752
+161,Research & Development,4963,Yes,59556
+162,Research & Development,19537,No,234444
+163,Sales,6172,Yes,74064
+164,Research & Development,2368,No,28416
+165,Research & Development,10312,Yes,123744
+167,Sales,1675,Yes,20100
+169,Research & Development,2523,No,30276
+170,Research & Development,6567,No,78804
+171,Research & Development,4739,No,56868
+174,Sales,9208,No,110496
+175,Sales,4559,Yes,54708
+176,Sales,8189,No,98268
+177,Human Resources,2942,No,35304
+178,Research & Development,4941,No,59292
+179,Research & Development,10650,Yes,127800
+182,Sales,5902,No,70824
+183,Sales,8639,No,103668
+184,Human Resources,6347,No,76164
+190,Research & Development,4200,Yes,50400
+192,Research & Development,3452,No,41424
+193,Research & Development,4317,No,51804
+194,Research & Development,2632,No,31584
+195,Sales,4668,No,56016
+197,Research & Development,3204,No,38448
+198,Research & Development,2720,No,32640
+199,Research & Development,17181,No,206172
+200,Research & Development,2238,No,26856
+201,Research & Development,1483,No,17796
+202,Research & Development,5605,No,67260
+204,Sales,7295,No,87540
+205,Sales,2306,No,27672
+206,Research & Development,2348,No,28176
+207,Sales,8998,No,107976
+208,Research & Development,4319,No,51828
+211,Research & Development,6132,No,73584
+214,Research & Development,3346,No,40152
+215,Sales,10855,No,130260
+216,Sales,2231,No,26772
+217,Research & Development,2323,No,27876
+218,Research & Development,2024,No,24288
+221,Research & Development,2713,No,32556
+223,Research & Development,9439,No,113268
+224,Research & Development,2566,No,30792
+226,Research & Development,19926,No,239112
+227,Research & Development,2451,No,29412
+228,Sales,9419,No,113028
+230,Sales,8686,No,104232
+231,Research & Development,3038,No,36456
+233,Research & Development,3058,No,36696
+235,Sales,2325,Yes,27900
+238,Research & Development,2088,No,25056
+239,Research & Development,3072,No,36864
+240,Sales,5006,No,60072
+241,Research & Development,4257,No,51084
+242,Research & Development,2500,No,30000
+243,Research & Development,1102,Yes,13224
+244,Sales,10453,No,125436
+245,Research & Development,2288,No,27456
+246,Research & Development,3929,No,47148
+247,Research & Development,2311,No,27732
+248,Sales,3140,Yes,37680
+249,Research & Development,3690,No,44280
+250,Research & Development,4450,No,53400
+252,Research & Development,2756,No,33072
+253,Research & Development,19033,No,228396
+254,Research & Development,18722,No,224664
+256,Research & Development,9547,No,114564
+258,Research & Development,13734,No,164808
+259,Research & Development,19999,No,239988
+260,Research & Development,2279,No,27348
+261,Research & Development,5916,Yes,70992
+262,Research & Development,2089,No,25068
+264,Research & Development,16792,No,201504
+267,Research & Development,3564,No,42768
+269,Research & Development,4425,No,53100
+270,Research & Development,5265,No,63180
+271,Research & Development,6553,No,78636
+273,Research & Development,6261,No,75132
+274,Research & Development,4298,No,51576
+275,Research & Development,6804,No,81648
+277,Research & Development,3815,No,45780
+281,Research & Development,2741,No,32892
+282,Research & Development,6673,Yes,80076
+283,Sales,7639,Yes,91668
+284,Research & Development,2328,No,27936
+286,Research & Development,2153,No,25836
+287,Research & Development,4876,No,58512
+288,Research & Development,9396,No,112752
+291,Sales,10400,Yes,124800
+292,Research & Development,8474,No,101688
+293,Sales,9981,No,119772
+296,Research & Development,12490,No,149880
+297,Research & Development,2657,Yes,31884
+298,Sales,13591,No,163092
+299,Sales,6696,Yes,80352
+300,Research & Development,2058,Yes,24696
+302,Sales,8865,No,106380
+303,Sales,5940,No,71280
+304,Research & Development,5914,No,70968
+305,Research & Development,2622,No,31464
+306,Research & Development,12185,No,146220
+307,Sales,10609,No,127308
+308,Research & Development,4345,No,52140
+309,Research & Development,2177,No,26124
+311,Sales,2793,No,33516
+312,Sales,7918,No,95016
+314,Sales,8789,No,105468
+315,Research & Development,2389,Yes,28668
+316,Research & Development,3212,No,38544
+319,Research & Development,19232,No,230784
+321,Human Resources,2267,No,27204
+323,Sales,19517,No,234204
+325,Research & Development,2436,Yes,29232
+327,Sales,16064,No,192768
+328,Research & Development,2707,Yes,32484
+329,Sales,19068,No,228816
+330,Sales,3931,No,47172
+331,Research & Development,3730,Yes,44760
+332,Research & Development,2232,No,26784
+333,Sales,4465,No,53580
+334,Research & Development,3072,No,36864
+335,Research & Development,3319,No,39828
+336,Research & Development,19202,No,230424
+337,Research & Development,13675,No,164100
+338,Research & Development,2911,No,34932
+339,Research & Development,5957,No,71484
+340,Research & Development,3920,No,47040
+341,Research & Development,6434,No,77208
+342,Research & Development,10048,Yes,120576
+343,Research & Development,10938,No,131256
+346,Research & Development,2340,No,28080
+347,Research & Development,6545,No,78540
+349,Sales,6931,No,83172
+350,Research & Development,4898,No,58776
+351,Research & Development,2593,No,31116
+352,Research & Development,19436,No,233232
+353,Research & Development,2723,No,32676
+355,Research & Development,3479,Yes,41748
+359,Research & Development,2794,No,33528
+361,Sales,5249,No,62988
+362,Research & Development,2176,No,26112
+363,Sales,16872,No,202464
+364,Research & Development,3485,Yes,41820
+366,Sales,6644,No,79728
+367,Research & Development,5582,No,66984
+369,Research & Development,4000,No,48000
+372,Research & Development,13496,No,161952
+373,Research & Development,3210,No,38520
+374,Research & Development,19045,No,228540
+376,Research & Development,11849,Yes,142188
+377,Research & Development,2070,No,24840
+378,Sales,6502,No,78024
+379,Research & Development,3230,No,38760
+380,Research & Development,13603,No,163236
+381,Research & Development,11996,No,143952
+382,Sales,5605,No,67260
+384,Research & Development,6397,No,76764
+385,Research & Development,19144,No,229728
+386,Research & Development,17584,No,211008
+387,Sales,4907,No,58884
+388,Sales,4554,No,54648
+389,Research & Development,5415,No,64980
+390,Research & Development,4741,No,56892
+391,Research & Development,2115,No,25380
+392,Research & Development,3161,Yes,37932
+393,Research & Development,5745,No,68940
+394,Research & Development,2373,Yes,28476
+395,Research & Development,3310,No,39720
+396,Research & Development,18665,No,223980
+397,Research & Development,4485,No,53820
+399,Sales,2789,No,33468
+401,Sales,5828,Yes,69936
+403,Research & Development,2326,No,27912
+404,Sales,13525,No,162300
+405,Research & Development,1420,Yes,17040
+406,Sales,8020,No,96240
+407,Research & Development,3688,No,44256
+408,Research & Development,5482,No,65784
+410,Sales,16015,No,192180
+411,Sales,1200,No,14400
+412,Research & Development,5661,No,67932
+416,Sales,6929,No,83148
+417,Research & Development,9613,No,115356
+419,Research & Development,5674,No,68088
+420,Sales,5484,No,65808
+421,Research & Development,12061,No,144732
+422,Research & Development,5660,No,67920
+423,Research & Development,4821,No,57852
+424,Human Resources,6410,No,76920
+425,Research & Development,5210,No,62520
+426,Research & Development,2695,No,32340
+428,Research & Development,11878,No,142536
+429,Research & Development,17068,No,204816
+430,Research & Development,2455,No,29460
+431,Research & Development,13964,No,167568
+433,Research & Development,4941,Yes,59292
+434,Research & Development,2478,No,29736
+436,Sales,5228,No,62736
+437,Sales,4478,No,53736
+438,Sales,7547,No,90564
+439,Research & Development,5055,No,60660
+440,Research & Development,3464,Yes,41568
+441,Research & Development,5775,No,69300
+442,Research & Development,8943,No,107316
+444,Research & Development,19272,No,231264
+445,Sales,5238,Yes,62856
+446,Sales,4682,No,56184
+447,Research & Development,18300,No,219600
+448,Research & Development,5257,No,63084
+449,Sales,6349,No,76188
+450,Research & Development,4869,No,58428
+451,Research & Development,9985,No,119820
+452,Research & Development,3697,No,44364
+453,Sales,7457,No,89484
+454,Research & Development,2119,Yes,25428
+455,Research & Development,3983,No,47796
+456,Sales,6118,No,73416
+458,Sales,6214,No,74568
+460,Research & Development,6347,No,76164
+461,Research & Development,11510,No,138120
+462,Research & Development,7143,No,85716
+463,Sales,8268,No,99216
+464,Research & Development,8095,No,97140
+465,Research & Development,2904,No,34848
+466,Research & Development,6032,No,72384
+467,Sales,2976,No,35712
+468,Research & Development,15992,No,191904
+469,Sales,4649,No,55788
+470,Human Resources,2696,No,32352
+471,Research & Development,2370,No,28440
+473,Sales,12504,No,150048
+474,Research & Development,5974,No,71688
+475,Sales,4736,No,56832
+476,Sales,5296,No,63552
+477,Research & Development,6781,No,81372
+478,Sales,2174,Yes,26088
+479,Sales,6653,No,79836
+481,Sales,9699,No,116388
+482,Research & Development,6755,No,81060
+483,Research & Development,2213,No,26556
+484,Sales,2610,No,31320
+485,Sales,2851,Yes,34212
+486,Research & Development,3452,No,41424
+487,Research & Development,5258,No,63096
+488,Sales,9355,Yes,112260
+491,Research & Development,10496,No,125952
+492,Sales,6380,Yes,76560
+493,Research & Development,2657,No,31884
+494,Sales,2716,Yes,32592
+495,Research & Development,2201,No,26412
+496,Research & Development,6540,No,78480
+497,Research & Development,3816,No,45792
+498,Sales,5253,No,63036
+499,Research & Development,10965,No,131580
+500,Sales,4936,No,59232
+501,Research & Development,2543,No,30516
+502,Sales,5304,Yes,63648
+505,Research & Development,16659,No,199908
+507,Sales,4260,No,51120
+508,Sales,2476,No,29712
+510,Research & Development,3102,Yes,37224
+511,Research & Development,2244,No,26928
+513,Sales,7596,No,91152
+514,Research & Development,2285,Yes,27420
+515,Research & Development,3034,No,36408
+516,Sales,5715,No,68580
+517,Research & Development,2576,No,30912
+518,Research & Development,4197,No,50364
+520,Research & Development,14336,No,172032
+521,Research & Development,3448,No,41376
+522,Research & Development,19406,No,232872
+523,Sales,6538,No,78456
+524,Research & Development,4306,No,51672
+525,Research & Development,2258,No,27096
+526,Research & Development,4522,No,54264
+527,Sales,4487,No,53844
+529,Research & Development,4449,No,53388
+530,Research & Development,2218,No,26616
+531,Research & Development,19197,No,230364
+532,Sales,13212,No,158544
+533,Sales,6577,No,78924
+534,Sales,8392,No,100704
+536,Research & Development,4558,No,54696
+538,Research & Development,4031,Yes,48372
+543,Research & Development,7969,No,95628
+544,Research & Development,2654,No,31848
+546,Research & Development,16555,No,198660
+547,Research & Development,4556,No,54672
+548,Research & Development,6091,No,73092
+549,Research & Development,19566,No,234792
+550,Research & Development,4810,No,57720
+551,Research & Development,4523,No,54276
+554,Sales,3202,Yes,38424
+555,Sales,2351,Yes,28212
+556,Research & Development,1702,No,20424
+558,Sales,18041,No,216492
+560,Research & Development,2886,No,34632
+562,Research & Development,2097,No,25164
+564,Research & Development,11935,No,143220
+565,Research & Development,2546,Yes,30552
+566,Human Resources,2564,Yes,30768
+567,Sales,8412,No,100944
+568,Sales,14118,No,169416
+569,Research & Development,17046,No,204552
+571,Research & Development,2564,No,30768
+573,Sales,10266,No,123192
+574,Research & Development,5070,No,60840
+575,Research & Development,17861,No,214332
+577,Research & Development,4230,No,50760
+578,Research & Development,3780,No,45360
+579,Research & Development,2768,No,33216
+580,Sales,9071,No,108852
+581,Research & Development,10648,No,127776
+582,Research & Development,13610,Yes,163320
+584,Research & Development,3408,Yes,40896
+585,Sales,2983,No,35796
+586,Research & Development,7632,No,91584
+587,Research & Development,9824,Yes,117888
+590,Human Resources,9950,Yes,119400
+591,Research & Development,2093,No,25116
+592,Sales,9980,No,119760
+593,Research & Development,3894,Yes,46728
+595,Sales,4051,No,48612
+597,Sales,16835,No,202020
+599,Sales,6230,No,74760
+600,Sales,4717,No,56604
+601,Research & Development,13237,No,158844
+602,Research & Development,3755,No,45060
+604,Sales,6582,No,78984
+605,Research & Development,7406,No,88872
+606,Sales,4805,No,57660
+608,Human Resources,2741,Yes,32892
+611,Research & Development,4262,No,51144
+612,Research & Development,16184,No,194208
+613,Sales,11557,No,138684
+614,Sales,1878,Yes,22536
+615,Sales,10932,No,131184
+616,Research & Development,6811,No,81732
+618,Sales,4306,No,51672
+620,Sales,4859,No,58308
+621,Sales,5337,No,64044
+622,Research & Development,2340,Yes,28080
+623,Research & Development,7491,No,89892
+624,Research & Development,10527,No,126324
+625,Sales,16595,No,199140
+626,Sales,8834,No,106008
+630,Research & Development,5577,No,66924
+631,Sales,4707,Yes,56484
+632,Sales,2400,No,28800
+634,Research & Development,9824,No,117888
+635,Research & Development,6447,No,77364
+638,Research & Development,19502,No,234024
+639,Research & Development,2725,No,32700
+641,Sales,6272,No,75264
+643,Research & Development,2127,No,25524
+644,Human Resources,18200,No,218400
+645,Sales,2096,No,25152
+647,Research & Development,2886,Yes,34632
+648,Sales,2033,Yes,24396
+649,Research & Development,3622,No,43464
+650,Sales,4233,Yes,50796
+652,Research & Development,3681,No,44172
+653,Sales,5460,No,65520
+655,Research & Development,2187,No,26244
+656,Sales,9602,No,115224
+657,Research & Development,2836,No,34032
+659,Research & Development,4089,No,49068
+661,Research & Development,16627,No,199524
+662,Research & Development,2619,No,31428
+663,Research & Development,5679,No,68148
+664,Research & Development,15402,No,184824
+665,Human Resources,5985,No,71820
+666,Sales,2579,No,30948
+667,Sales,3041,Yes,36492
+669,Sales,3447,No,41364
+671,Research & Development,19513,No,234156
+675,Research & Development,2773,No,33276
+677,Sales,7104,No,85248
+679,Research & Development,6322,No,75864
+680,Research & Development,2083,No,24996
+682,Sales,8381,No,100572
+683,Research & Development,2691,No,32292
+684,Sales,4286,Yes,51432
+686,Research & Development,2659,No,31908
+689,Research & Development,9434,No,113208
+690,Sales,5561,No,66732
+691,Research & Development,6646,No,79752
+692,Research & Development,7725,No,92700
+698,Human Resources,10725,No,128700
+699,Research & Development,8847,No,106164
+700,Research & Development,2045,No,24540
+701,Research & Development,1009,Yes,12108
+702,Research & Development,3348,Yes,40176
+704,Research & Development,1281,No,15372
+705,Research & Development,2819,No,33828
+707,Sales,4851,No,58212
+709,Sales,4028,No,48336
+710,Research & Development,2720,No,32640
+712,Sales,8120,No,97440
+714,Sales,4647,No,55764
+715,Research & Development,4680,No,56160
+716,Research & Development,3221,No,38652
+717,Research & Development,8621,No,103452
+720,Sales,4577,Yes,54924
+721,Research & Development,4553,No,54636
+722,Sales,5396,No,64752
+723,Sales,6796,Yes,81552
+724,Research & Development,7625,No,91500
+725,Research & Development,7412,No,88944
+727,Research & Development,11159,No,133908
+728,Sales,4960,No,59520
+729,Sales,10475,No,125700
+730,Research & Development,14814,No,177768
+731,Human Resources,19141,No,229692
+732,Sales,5405,No,64860
+733,Research & Development,8793,No,105516
+734,Human Resources,19189,No,230268
+738,Sales,3875,No,46500
+741,Research & Development,2216,Yes,26592
+742,Research & Development,11713,No,140556
+743,Research & Development,7861,No,94332
+744,Research & Development,3708,No,44496
+746,Sales,13770,No,165240
+747,Sales,5304,No,63648
+749,Sales,2642,No,31704
+752,Research & Development,2759,Yes,33108
+754,Sales,6804,No,81648
+757,Research & Development,6142,No,73704
+758,Research & Development,2500,No,30000
+760,Human Resources,6389,No,76668
+762,Research & Development,11103,No,133236
+763,Research & Development,2342,No,28104
+764,Research & Development,6811,No,81732
+766,Sales,2297,No,27564
+769,Research & Development,2450,No,29400
+771,Research & Development,5093,No,61116
+772,Research & Development,5309,No,63708
+773,Research & Development,3057,No,36684
+775,Research & Development,5121,No,61452
+776,Sales,16856,No,202272
+780,Research & Development,2686,Yes,32232
+781,Sales,6180,No,74160
+783,Sales,6632,No,79584
+784,Research & Development,3505,No,42060
+785,Sales,6397,Yes,76764
+786,Sales,6274,No,75288
+787,Research & Development,19859,Yes,238308
+789,Sales,7587,No,91044
+791,Research & Development,4258,No,51096
+792,Research & Development,4364,No,52368
+793,Research & Development,4335,No,52020
+796,Sales,5326,Yes,63912
+797,Research & Development,3280,No,39360
+799,Research & Development,5485,No,65820
+800,Sales,4342,No,52104
+802,Research & Development,2782,No,33384
+803,Research & Development,5980,No,71760
+804,Research & Development,4381,No,52572
+805,Sales,2572,No,30864
+806,Research & Development,3833,No,45996
+807,Research & Development,4244,No,50928
+808,Sales,6500,No,78000
+809,Research & Development,18430,No,221160
+811,Research & Development,1601,Yes,19212
+812,Research & Development,2694,No,32328
+813,Research & Development,3149,No,37788
+815,Research & Development,17639,No,211668
+816,Research & Development,2319,Yes,27828
+817,Research & Development,11691,No,140292
+819,Sales,5324,Yes,63888
+820,Research & Development,16752,No,201024
+823,Research & Development,5228,No,62736
+824,Research & Development,2700,No,32400
+825,Research & Development,19246,Yes,230952
+826,Research & Development,2506,No,30072
+827,Research & Development,6062,No,72744
+828,Research & Development,4382,Yes,52584
+829,Human Resources,2143,No,25716
+830,Research & Development,6162,No,73944
+832,Research & Development,5094,No,61128
+833,Research & Development,6877,No,82524
+834,Research & Development,2274,No,27288
+836,Research & Development,4434,No,53208
+837,Research & Development,6288,No,75456
+838,Research & Development,2553,No,30636
+840,Sales,7654,Yes,91848
+842,Sales,5160,Yes,61920
+843,Research & Development,17159,No,205908
+844,Research & Development,12808,No,153696
+845,Research & Development,10221,No,122652
+846,Sales,4779,No,57348
+847,Human Resources,3737,No,44844
+848,Research & Development,2366,Yes,28392
+850,Research & Development,1706,No,20472
+851,Sales,16307,No,195684
+852,Research & Development,5933,No,71196
+854,Research & Development,3424,No,41088
+855,Sales,4037,No,48444
+856,Research & Development,2559,No,30708
+857,Sales,6201,No,74412
+859,Sales,4403,No,52836
+861,Research & Development,3761,No,45132
+862,Sales,10934,No,131208
+864,Sales,10761,No,129132
+865,Research & Development,5175,No,62100
+867,Research & Development,13826,No,165912
+868,Sales,6334,No,76008
+869,Human Resources,4936,No,59232
+872,Research & Development,4775,No,57300
+874,Research & Development,2818,No,33816
+875,Research & Development,2515,No,30180
+878,Human Resources,2342,No,28104
+879,Sales,4194,No,50328
+880,Research & Development,10685,No,128220
+881,Research & Development,2022,Yes,24264
+882,Research & Development,2314,No,27768
+885,Sales,4256,No,51072
+887,Research & Development,3580,No,42960
+888,Research & Development,3162,No,37944
+889,Sales,6524,No,78288
+893,Sales,2899,No,34788
+894,Research & Development,5231,No,62772
+895,Research & Development,2356,No,28272
+896,Sales,2800,Yes,33600
+897,Sales,11836,No,142032
+899,Research & Development,10903,No,130836
+900,Sales,2973,No,35676
+901,Research & Development,14275,No,171300
+902,Research & Development,5562,No,66744
+903,Sales,4537,No,54444
+904,Sales,7642,No,91704
+905,Research & Development,17924,No,215088
+909,Human Resources,5204,No,62448
+910,Human Resources,2277,No,27324
+911,Research & Development,2795,Yes,33540
+912,Research & Development,2532,No,30384
+913,Research & Development,2559,No,30708
+916,Sales,4908,No,58896
+918,Research & Development,2380,Yes,28560
+920,Research & Development,4765,No,57180
+922,Sales,2044,Yes,24528
+923,Research & Development,2693,Yes,32316
+924,Research & Development,6586,No,79032
+925,Sales,3294,No,39528
+926,Research & Development,4171,Yes,50052
+927,Research & Development,2778,Yes,33336
+930,Research & Development,2377,No,28524
+932,Research & Development,2404,Yes,28848
+933,Research & Development,2318,No,27816
+934,Research & Development,2008,No,24096
+936,Sales,6244,No,74928
+939,Research & Development,2799,No,33588
+940,Research & Development,10552,No,126624
+941,Sales,2329,No,27948
+942,Research & Development,4014,No,48168
+944,Research & Development,7403,No,88836
+945,Research & Development,2259,No,27108
+947,Sales,6932,No,83184
+949,Research & Development,4678,No,56136
+950,Research & Development,13582,No,162984
+951,Research & Development,2332,No,27984
+952,Sales,2413,Yes,28956
+954,Sales,9705,No,116460
+956,Sales,4294,No,51528
+957,Research & Development,4721,No,56652
+958,Research & Development,2519,No,30228
+959,Sales,2121,Yes,25452
+960,Research & Development,2973,Yes,35676
+961,Research & Development,5855,No,70260
+964,Research & Development,3617,No,43404
+966,Research & Development,6725,No,80700
+967,Sales,10325,Yes,123900
+969,Research & Development,6949,No,83388
+970,Sales,10609,Yes,127308
+972,Research & Development,4447,No,53364
+974,Sales,2157,No,25884
+975,Sales,4601,No,55212
+976,Research & Development,17099,No,205188
+977,Research & Development,2479,Yes,29748
+981,Sales,14852,No,178224
+982,Sales,7264,No,87168
+983,Sales,5666,No,67992
+984,Sales,7823,No,93876
+985,Sales,7880,No,94560
+986,Sales,13194,Yes,158328
+987,Research & Development,5067,No,60804
+990,Sales,5079,No,60948
+991,Research & Development,2321,Yes,27852
+992,Sales,17444,No,209328
+994,Research & Development,2404,Yes,28848
+995,Research & Development,3452,No,41424
+996,Research & Development,2270,No,27240
+997,Research & Development,17399,No,208788
+998,Research & Development,5488,No,65856
+999,Research & Development,19419,No,233028
+1001,Research & Development,2811,No,33732
+1002,Research & Development,3633,No,43596
+1003,Sales,4163,No,49956
+1004,Research & Development,2132,Yes,25584
+1005,Research & Development,13973,No,167676
+1006,Research & Development,2684,No,32208
+1007,Research & Development,10845,No,130140
+1009,Research & Development,4377,No,52524
+1010,Research & Development,3743,Yes,44916
+1011,Research & Development,4148,No,49776
+1012,Research & Development,1051,No,12612
+1013,Research & Development,10739,No,128868
+1014,Research & Development,10388,No,124656
+1015,Research & Development,11416,No,136992
+1016,Research & Development,2600,Yes,31200
+1017,Research & Development,2422,Yes,29064
+1018,Research & Development,5472,No,65664
+1019,Research & Development,2451,No,29412
+1022,Research & Development,4240,No,50880
+1024,Research & Development,10999,No,131988
+1025,Research & Development,5003,No,60036
+1026,Research & Development,12742,No,152904
+1027,Research & Development,4227,No,50724
+1028,Research & Development,3917,No,47004
+1029,Sales,18303,No,219636
+1030,Research & Development,2380,No,28560
+1032,Research & Development,13726,No,164712
+1033,Research & Development,4777,Yes,57324
+1034,Research & Development,6385,No,76620
+1035,Research & Development,19973,No,239676
+1036,Sales,6861,No,82332
+1037,Sales,4969,Yes,59628
+1038,Sales,19845,Yes,238140
+1039,Sales,13320,No,159840
+1040,Sales,6347,No,76164
+1042,Research & Development,2743,Yes,32916
+1043,Research & Development,10880,No,130560
+1044,Sales,2342,No,28104
+1045,Sales,17650,No,211800
+1046,Research & Development,4025,No,48300
+1047,Sales,9725,No,116700
+1048,Sales,11904,No,142848
+1049,Human Resources,2177,No,26124
+1050,Sales,7525,No,90300
+1052,Research & Development,4834,Yes,58008
+1053,Research & Development,2042,Yes,24504
+1055,Sales,2220,No,26640
+1056,Sales,1052,No,12624
+1060,Research & Development,2821,No,33852
+1061,Research & Development,19237,No,230844
+1062,Research & Development,4107,No,49284
+1066,Sales,8396,No,100752
+1068,Research & Development,2007,No,24084
+1069,Research & Development,19627,No,235524
+1070,Sales,10686,No,128232
+1071,Research & Development,2942,No,35304
+1073,Research & Development,8858,No,106296
+1074,Research & Development,16756,No,201072
+1076,Sales,10798,No,129576
+1077,Sales,2323,Yes,27876
+1079,Research & Development,1416,Yes,16992
+1080,Research & Development,4615,No,55380
+1081,Research & Development,2461,Yes,29532
+1082,Research & Development,8722,Yes,104664
+1083,Research & Development,3955,No,47460
+1084,Research & Development,9957,No,119484
+1085,Research & Development,3376,No,40512
+1088,Research & Development,8823,No,105876
+1092,Research & Development,10322,No,123864
+1094,Research & Development,4621,No,55452
+1096,Research & Development,10976,No,131712
+1097,Research & Development,3660,No,43920
+1098,Human Resources,10482,Yes,125784
+1099,Research & Development,7119,No,85428
+1100,Sales,9582,Yes,114984
+1101,Research & Development,4508,Yes,54096
+1102,Research & Development,2207,No,26484
+1103,Research & Development,7756,No,93072
+1105,Sales,6694,No,80328
+1106,Research & Development,3691,Yes,44292
+1107,Research & Development,2377,Yes,28524
+1108,Research & Development,2313,Yes,27756
+1109,Research & Development,17665,No,211980
+1111,Research & Development,2596,Yes,31152
+1113,Sales,4728,Yes,56736
+1114,Sales,4302,No,51624
+1115,Research & Development,2979,No,35748
+1116,Research & Development,16885,No,202620
+1117,Sales,5593,No,67116
+1118,Research & Development,10445,No,125340
+1119,Sales,8740,No,104880
+1120,Research & Development,2514,No,30168
+1121,Research & Development,7655,No,91860
+1124,Sales,17465,No,209580
+1125,Sales,7351,No,88212
+1126,Research & Development,10820,No,129840
+1127,Research & Development,12169,Yes,146028
+1128,Research & Development,19626,No,235512
+1131,Research & Development,2070,No,24840
+1132,Research & Development,6782,No,81384
+1133,Research & Development,7779,No,93348
+1135,Sales,2791,No,33492
+1136,Research & Development,3201,No,38412
+1137,Sales,4968,No,59616
+1138,Sales,13120,No,157440
+1140,Research & Development,4033,No,48396
+1143,Research & Development,3291,No,39492
+1148,Research & Development,4272,No,51264
+1150,Research & Development,5056,No,60672
+1152,Human Resources,2844,No,34128
+1154,Research & Development,2703,No,32436
+1156,Research & Development,1904,Yes,22848
+1157,Sales,8224,Yes,98688
+1158,Research & Development,4766,No,57192
+1160,Research & Development,2610,Yes,31320
+1161,Research & Development,5731,No,68772
+1162,Research & Development,2539,No,30468
+1163,Sales,5714,No,68568
+1164,Human Resources,4323,No,51876
+1165,Sales,7336,Yes,88032
+1166,Research & Development,13499,No,161988
+1167,Sales,13758,Yes,165096
+1171,Sales,5155,No,61860
+1172,Research & Development,2258,No,27096
+1173,Research & Development,3597,No,43164
+1175,Research & Development,2515,Yes,30180
+1177,Research & Development,4420,No,53040
+1179,Sales,6578,No,78936
+1180,Research & Development,4422,No,53064
+1182,Research & Development,10274,No,123288
+1184,Research & Development,5343,No,64116
+1185,Research & Development,2376,No,28512
+1188,Sales,5346,Yes,64152
+1190,Sales,2827,No,33924
+1191,Research & Development,19943,No,239316
+1192,Research & Development,3131,No,37572
+1193,Research & Development,2552,No,30624
+1195,Research & Development,4477,No,53724
+1196,Research & Development,6474,No,77688
+1198,Research & Development,3033,No,36396
+1200,Research & Development,2936,Yes,35232
+1201,Research & Development,18606,No,223272
+1202,Research & Development,2168,No,26016
+1203,Research & Development,2853,Yes,34236
+1204,Sales,17048,No,204576
+1206,Research & Development,2290,No,27480
+1207,Human Resources,3600,No,43200
+1210,Research & Development,2107,Yes,25284
+1211,Sales,4115,No,49380
+1212,Sales,4327,No,51924
+1215,Research & Development,17856,No,214272
+1216,Research & Development,3196,No,38352
+1217,Research & Development,19081,No,228972
+1218,Sales,8966,No,107592
+1219,Research & Development,2210,Yes,26520
+1220,Sales,4539,No,54468
+1221,Research & Development,2741,No,32892
+1224,Research & Development,3491,No,41892
+1225,Research & Development,4541,No,54492
+1226,Sales,2678,No,32136
+1228,Research & Development,7379,No,88548
+1231,Human Resources,6272,No,75264
+1233,Sales,5220,No,62640
+1234,Research & Development,2743,No,32916
+1235,Research & Development,4998,No,59976
+1237,Research & Development,10252,No,123024
+1238,Research & Development,2781,No,33372
+1239,Sales,6852,No,82224
+1240,Sales,4950,No,59400
+1241,Research & Development,3579,No,42948
+1242,Research & Development,13191,No,158292
+1243,Sales,10377,No,124524
+1244,Research & Development,2235,No,26820
+1245,Research & Development,10502,No,126024
+1246,Research & Development,2011,No,24132
+1248,Research & Development,1859,Yes,22308
+1249,Research & Development,3760,No,45120
+1250,Research & Development,17779,No,213348
+1251,Research & Development,6833,No,81996
+1252,Research & Development,6812,No,81744
+1254,Sales,5171,No,62052
+1255,Research & Development,19740,No,236880
+1256,Research & Development,18711,No,224532
+1257,Research & Development,3692,No,44304
+1258,Research & Development,2559,No,30708
+1259,Research & Development,2517,No,30204
+1260,Research & Development,6623,No,79476
+1263,Research & Development,18265,No,219180
+1264,Research & Development,16124,No,193488
+1265,Research & Development,2585,No,31020
+1267,Sales,18213,No,218556
+1268,Sales,8380,No,100560
+1269,Research & Development,2994,No,35928
+1270,Research & Development,1223,No,14676
+1273,Sales,1118,Yes,13416
+1275,Research & Development,2875,No,34500
+1277,Sales,18824,Yes,225888
+1278,Research & Development,13577,No,162924
+1279,Research & Development,2625,Yes,31500
+1280,Sales,18789,No,225468
+1281,Sales,4538,No,54456
+1282,Sales,19847,No,238164
+1283,Research & Development,10512,No,126144
+1285,Research & Development,4444,No,53328
+1286,Research & Development,2154,No,25848
+1288,Research & Development,19190,No,230280
+1289,Human Resources,4490,No,53880
+1291,Research & Development,3506,No,42072
+1292,Research & Development,2372,No,28464
+1293,Sales,10231,No,122772
+1294,Research & Development,5410,No,64920
+1295,Research & Development,7978,Yes,95736
+1296,Research & Development,3867,No,46404
+1297,Research & Development,2838,No,34056
+1298,Research & Development,4695,No,56340
+1299,Research & Development,3339,Yes,40068
+1301,Research & Development,2080,No,24960
+1303,Research & Development,2096,No,25152
+1304,Sales,6209,No,74508
+1306,Research & Development,18061,No,216732
+1307,Research & Development,17123,No,205476
+1308,Research & Development,2372,No,28464
+1309,Research & Development,4883,Yes,58596
+1310,Research & Development,3904,Yes,46848
+1311,Research & Development,4627,No,55524
+1312,Research & Development,7094,No,85128
+1314,Human Resources,3423,No,41076
+1315,Research & Development,6674,No,80088
+1317,Research & Development,16880,No,202560
+1318,Sales,9094,Yes,109128
+1319,Sales,8446,Yes,101352
+1321,Research & Development,11916,No,142992
+1322,Research & Development,4534,No,54408
+1324,Sales,9852,No,118224
+1329,Sales,6151,No,73812
+1331,Sales,2302,Yes,27624
+1333,Research & Development,2362,Yes,28344
+1334,Research & Development,17861,No,214332
+1336,Research & Development,19187,No,230244
+1338,Human Resources,19717,No,236604
+1340,Research & Development,3544,No,42528
+1344,Research & Development,8500,No,102000
+1346,Research & Development,4661,No,55932
+1349,Sales,4103,No,49236
+1350,Research & Development,4249,No,50988
+1352,Human Resources,14026,No,168312
+1355,Sales,6893,No,82716
+1356,Sales,6125,No,73500
+1358,Research & Development,3669,No,44028
+1360,Research & Development,10008,Yes,120096
+1361,Research & Development,2387,No,28644
+1362,Sales,4639,No,55668
+1363,Research & Development,7898,No,94776
+1364,Sales,2534,No,30408
+1367,Research & Development,13142,No,157704
+1368,Research & Development,1611,No,19332
+1369,Research & Development,5363,No,64356
+1371,Sales,5071,No,60852
+1372,Sales,13695,Yes,164340
+1373,Research & Development,13402,No,160824
+1374,Research & Development,2029,No,24348
+1375,Research & Development,6377,No,76524
+1377,Research & Development,5429,No,65148
+1379,Sales,2785,Yes,33420
+1380,Sales,4614,Yes,55368
+1382,Research & Development,2610,No,31320
+1383,Research & Development,6687,No,80244
+1387,Sales,4724,No,56688
+1389,Research & Development,6179,Yes,74148
+1390,Sales,6120,No,73440
+1391,Sales,10596,No,127152
+1392,Research & Development,5467,No,65604
+1394,Research & Development,2996,No,35952
+1395,Sales,9998,No,119976
+1396,Sales,4078,No,48936
+1397,Research & Development,10920,No,131040
+1399,Sales,6232,No,74784
+1401,Research & Development,13247,No,158964
+1402,Research & Development,4081,No,48972
+1403,Sales,5769,No,69228
+1405,Research & Development,2394,Yes,28728
+1407,Research & Development,3904,No,46848
+1408,Human Resources,16799,No,201588
+1409,Research & Development,2950,No,35400
+1411,Research & Development,3629,No,43548
+1412,Research & Development,9362,No,112344
+1415,Research & Development,3229,No,38748
+1417,Research & Development,3578,No,42936
+1419,Human Resources,7988,No,95856
+1420,Research & Development,4284,Yes,51408
+1421,Research & Development,7553,Yes,90636
+1422,Research & Development,17328,No,207936
+1423,Research & Development,19701,No,236412
+1424,Research & Development,14732,No,176784
+1425,Sales,9278,No,111336
+1427,Sales,1359,Yes,16308
+1428,Sales,4779,No,57348
+1430,Research & Development,16422,No,197064
+1431,Research & Development,2996,No,35952
+1433,Research & Development,1261,Yes,15132
+1434,Research & Development,2099,No,25188
+1435,Research & Development,5810,No,69720
+1436,Sales,5647,No,67764
+1438,Research & Development,3420,No,41040
+1439,Sales,4400,Yes,52800
+1440,Research & Development,3500,No,42000
+1441,Research & Development,2066,No,24792
+1443,Research & Development,17169,No,206028
+1445,Sales,4162,No,49944
+1446,Sales,9204,No,110448
+1447,Research & Development,3294,No,39528
+1448,Research & Development,2127,No,25524
+1449,Research & Development,3975,No,47700
+1453,Sales,10793,No,129516
+1457,Sales,10096,Yes,121152
+1458,Research & Development,3646,Yes,43752
+1459,Research & Development,7446,Yes,89352
+1460,Research & Development,10851,No,130212
+1461,Human Resources,2109,No,25308
+1464,Research & Development,3722,Yes,44664
+1465,Research & Development,9380,No,112560
+1466,Sales,5486,No,65832
+1467,Human Resources,2742,Yes,32904
+1468,Research & Development,13757,No,165084
+1469,Sales,8463,No,101556
+1471,Research & Development,3162,No,37944
+1472,Research & Development,16598,No,199176
+1473,Research & Development,6651,No,79812
+1474,Research & Development,2345,No,28140
+1475,Research & Development,3420,No,41040
+1477,Sales,4373,No,52476
+1478,Sales,4759,No,57108
+1479,Sales,5301,No,63612
+1480,Research & Development,3673,No,44076
+1481,Sales,4768,No,57216
+1482,Research & Development,1274,No,15288
+1483,Research & Development,4900,No,58800
+1484,Research & Development,10466,No,125592
+1485,Research & Development,17007,No,204084
+1486,Sales,2909,Yes,34908
+1487,Sales,5765,Yes,69180
+1489,Sales,4599,Yes,55188
+1492,Sales,2404,No,28848
+1494,Research & Development,3172,Yes,38064
+1495,Sales,2033,No,24396
+1496,Research & Development,10209,No,122508
+1497,Sales,8620,No,103440
+1499,Human Resources,2064,No,24768
+1501,Research & Development,4035,No,48420
+1502,Research & Development,3838,No,46056
+1503,Sales,4591,No,55092
+1504,Research & Development,2561,Yes,30732
+1506,Research & Development,1563,No,18756
+1507,Sales,4898,No,58776
+1509,Research & Development,4789,No,57468
+1513,Research & Development,3180,No,38160
+1514,Research & Development,6549,No,78588
+1515,Research & Development,6388,No,76656
+1516,Research & Development,11244,No,134928
+1520,Research & Development,16032,No,192384
+1522,Research & Development,2362,Yes,28344
+1523,Research & Development,16328,No,195936
+1525,Research & Development,8376,No,100512
+1527,Sales,16606,No,199272
+1529,Research & Development,8606,No,103272
+1533,Research & Development,2272,No,27264
+1534,Research & Development,2018,Yes,24216
+1535,Sales,7083,No,84996
+1537,Research & Development,4084,Yes,49008
+1539,Research & Development,14411,No,172932
+1541,Sales,2308,No,27696
+1542,Research & Development,4841,No,58092
+1543,Research & Development,4285,No,51420
+1544,Research & Development,9715,No,116580
+1545,Research & Development,4320,No,51840
+1546,Research & Development,2132,No,25584
+1547,Research & Development,10124,No,121488
+1548,Sales,5473,No,65676
+1549,Research & Development,5207,No,62484
+1550,Human Resources,16437,No,197244
+1551,Research & Development,2296,No,27552
+1552,Research & Development,4069,No,48828
+1553,Research & Development,7441,No,89292
+1554,Sales,2430,No,29160
+1555,Research & Development,5878,No,70536
+1556,Sales,2644,No,31728
+1557,Sales,6439,No,77268
+1558,Research & Development,2451,No,29412
+1560,Sales,6392,No,76704
+1562,Sales,9714,Yes,116568
+1563,Human Resources,6077,No,72924
+1564,Research & Development,2450,No,29400
+1568,Sales,9250,No,111000
+1569,Research & Development,2074,Yes,24888
+1572,Research & Development,10169,Yes,122028
+1573,Research & Development,4855,Yes,58260
+1574,Research & Development,4087,No,49044
+1576,Research & Development,2367,No,28404
+1577,Research & Development,2972,No,35664
+1578,Sales,19586,No,235032
+1580,Research & Development,5484,No,65808
+1581,Research & Development,2061,No,24732
+1582,Sales,9924,No,119088
+1583,Sales,4198,No,50376
+1585,Sales,6815,No,81780
+1586,Research & Development,4723,No,56676
+1587,Research & Development,6142,No,73704
+1588,Sales,8237,No,98844
+1590,Research & Development,8853,No,106236
+1591,Sales,19331,No,231972
+1592,Research & Development,2073,No,24876
+1594,Research & Development,5562,No,66744
+1595,Research & Development,19613,No,235356
+1596,Research & Development,3407,No,40884
+1597,Research & Development,5063,No,60756
+1598,Sales,4639,No,55668
+1599,Research & Development,4876,No,58512
+1601,Research & Development,2690,No,32280
+1602,Sales,17567,No,210804
+1604,Research & Development,2408,Yes,28896
+1605,Research & Development,2814,No,33768
+1606,Research & Development,11245,No,134940
+1607,Research & Development,3312,No,39744
+1608,Research & Development,19049,No,228588
+1609,Research & Development,2141,No,25692
+1611,Research & Development,5769,No,69228
+1612,Sales,4385,No,52620
+1613,Sales,5332,No,63984
+1614,Research & Development,4663,No,55956
+1615,Research & Development,4724,No,56688
+1617,Research & Development,3211,No,38532
+1618,Research & Development,5377,No,64524
+1619,Research & Development,4066,No,48792
+1621,Research & Development,5208,No,62496
+1622,Research & Development,4877,No,58524
+1623,Research & Development,3117,No,37404
+1624,Sales,1569,Yes,18828
+1625,Human Resources,19658,No,235896
+1627,Research & Development,3069,No,36828
+1628,Research & Development,10435,No,125220
+1630,Research & Development,4148,No,49776
+1631,Research & Development,5768,No,69216
+1633,Research & Development,5042,No,60504
+1635,Research & Development,5770,No,69240
+1638,Research & Development,7756,No,93072
+1639,Sales,10306,Yes,123672
+1640,Research & Development,3936,No,47232
+1641,Research & Development,7945,No,95340
+1642,Human Resources,5743,No,68916
+1644,Research & Development,15202,No,182424
+1645,Sales,5440,Yes,65280
+1646,Research & Development,3760,No,45120
+1647,Research & Development,3517,No,42204
+1648,Research & Development,2580,No,30960
+1649,Research & Development,2166,Yes,25992
+1650,Sales,5869,No,70428
+1651,Research & Development,8008,No,96096
+1653,Research & Development,5206,No,62472
+1654,Research & Development,5295,No,63540
+1655,Research & Development,16413,No,196956
+1656,Research & Development,13269,No,159228
+1657,Sales,2783,No,33396
+1658,Research & Development,5433,No,65196
+1659,Research & Development,2013,No,24156
+1661,Research & Development,13966,No,167592
+1662,Research & Development,4374,No,52488
+1664,Research & Development,6842,No,82104
+1665,Research & Development,17426,No,209112
+1666,Research & Development,17603,No,211236
+1667,Sales,4581,Yes,54972
+1668,Research & Development,4735,No,56820
+1669,Sales,4187,No,50244
+1670,Sales,5505,No,66060
+1671,Research & Development,5470,No,65640
+1673,Sales,5476,No,65712
+1674,Research & Development,2587,No,31044
+1675,Research & Development,2440,No,29280
+1676,Sales,15972,No,191664
+1677,Research & Development,15379,No,184548
+1678,Sales,7082,No,84984
+1680,Sales,2728,No,32736
+1681,Sales,5368,No,64416
+1682,Research & Development,5347,No,64164
+1683,Human Resources,3195,No,38340
+1684,Research & Development,3989,Yes,47868
+1687,Research & Development,3306,No,39672
+1689,Research & Development,7005,No,84060
+1691,Sales,2655,Yes,31860
+1692,Research & Development,1393,Yes,16716
+1693,Research & Development,2570,No,30840
+1694,Research & Development,3537,No,42444
+1696,Research & Development,3986,No,47832
+1697,Research & Development,10883,No,130596
+1698,Research & Development,2028,No,24336
+1700,Sales,9525,No,114300
+1701,Research & Development,2929,No,35148
+1702,Sales,2275,Yes,27300
+1703,Research & Development,7879,No,94548
+1704,Research & Development,4930,No,59160
+1706,Sales,7847,No,94164
+1707,Research & Development,4401,No,52812
+1708,Sales,9241,No,110892
+1709,Research & Development,2974,No,35688
+1710,Sales,4502,No,54024
+1712,Research & Development,10748,No,128976
+1714,Human Resources,1555,Yes,18660
+1716,Sales,12936,Yes,155232
+1718,Research & Development,2305,No,27660
+1719,Research & Development,16704,No,200448
+1720,Research & Development,3433,No,41196
+1721,Research & Development,3477,No,41724
+1722,Human Resources,6430,No,77160
+1724,Research & Development,6516,No,78192
+1725,Research & Development,3907,No,46884
+1727,Research & Development,5562,No,66744
+1728,Research & Development,6883,No,82596
+1729,Research & Development,2862,No,34344
+1731,Sales,4978,No,59736
+1732,Sales,10368,No,124416
+1733,Sales,6134,Yes,73608
+1734,Sales,6735,Yes,80820
+1735,Research & Development,3295,No,39540
+1736,Research & Development,5238,No,62856
+1737,Research & Development,6472,No,77664
+1739,Sales,9610,No,115320
+1740,Sales,19833,No,237996
+1744,Human Resources,9756,No,117072
+1745,Research & Development,4968,No,59616
+1746,Human Resources,2145,No,25740
+1747,Human Resources,2180,Yes,26160
+1749,Sales,8346,No,100152
+1751,Research & Development,3445,No,41340
+1752,Sales,2760,Yes,33120
+1753,Research & Development,6294,No,75528
+1754,Sales,7140,No,85680
+1755,Research & Development,2932,No,35184
+1756,Sales,5147,No,61764
+1757,Sales,4507,No,54084
+1758,Sales,8564,Yes,102768
+1760,Research & Development,2468,No,29616
+1761,Sales,8161,Yes,97932
+1762,Research & Development,2109,No,25308
+1763,Research & Development,5294,No,63528
+1764,Research & Development,2718,No,32616
+1766,Research & Development,5811,No,69732
+1767,Research & Development,2437,Yes,29244
+1768,Research & Development,2766,No,33192
+1770,Research & Development,19038,No,228456
+1771,Research & Development,3055,No,36660
+1772,Research & Development,2289,No,27468
+1774,Sales,4001,No,48012
+1775,Research & Development,12965,No,155580
+1778,Human Resources,3539,No,42468
+1779,Sales,6029,No,72348
+1780,Sales,2679,Yes,32148
+1782,Research & Development,3702,No,44424
+1783,Research & Development,2398,Yes,28776
+1784,Sales,5468,No,65616
+1786,Research & Development,13116,No,157392
+1787,Sales,4189,No,50268
+1789,Research & Development,19328,No,231936
+1790,Research & Development,8321,No,99852
+1792,Research & Development,2342,Yes,28104
+1794,Human Resources,4071,No,48852
+1797,Sales,5813,Yes,69756
+1798,Research & Development,3143,No,37716
+1799,Research & Development,2044,No,24528
+1800,Research & Development,13464,No,161568
+1801,Sales,7991,No,95892
+1802,Research & Development,3377,No,40524
+1803,Research & Development,5538,No,66456
+1804,Research & Development,5762,No,69144
+1805,Human Resources,2592,No,31104
+1807,Research & Development,5346,Yes,64152
+1809,Research & Development,4213,Yes,50556
+1812,Sales,4127,No,49524
+1813,Research & Development,2438,No,29256
+1814,Research & Development,6870,No,82440
+1815,Sales,10447,No,125364
+1816,Research & Development,9667,No,116004
+1818,Human Resources,2148,Yes,25776
+1821,Research & Development,8926,Yes,107112
+1822,Research & Development,6513,No,78156
+1823,Sales,6799,No,81588
+1824,Sales,16291,No,195492
+1826,Research & Development,2705,No,32460
+1827,Research & Development,10333,No,123996
+1829,Research & Development,4448,No,53376
+1830,Research & Development,6854,No,82248
+1833,Sales,9637,No,115644
+1834,Research & Development,3591,No,43092
+1835,Sales,5405,No,64860
+1836,Sales,4684,No,56208
+1837,Research & Development,15787,No,189444
+1839,Research & Development,1514,No,18168
+1842,Human Resources,2956,Yes,35472
+1844,Human Resources,2335,Yes,28020
+1845,Sales,5154,No,61848
+1847,Research & Development,6962,No,83544
+1849,Sales,5675,No,68100
+1850,Research & Development,2379,No,28548
+1852,Research & Development,3812,No,45744
+1853,Sales,4648,No,55776
+1854,Research & Development,2936,No,35232
+1856,Research & Development,2105,No,25260
+1857,Research & Development,8578,No,102936
+1858,Human Resources,2706,No,32472
+1859,Research & Development,6384,No,76608
+1860,Research & Development,3968,No,47616
+1862,Sales,9907,Yes,118884
+1863,Sales,13225,No,158700
+1864,Sales,3540,No,42480
+1865,Human Resources,2804,No,33648
+1866,Research & Development,19392,No,232704
+1867,Research & Development,19665,No,235980
+1868,Research & Development,2439,Yes,29268
+1869,Sales,7314,Yes,87768
+1870,Research & Development,4774,No,57288
+1871,Research & Development,3902,No,46824
+1873,Research & Development,2662,No,31944
+1875,Sales,2856,No,34272
+1876,Sales,1081,Yes,12972
+1878,Research & Development,2472,Yes,29664
+1880,Sales,5673,No,68076
+1881,Research & Development,4197,No,50364
+1882,Sales,9713,No,116556
+1883,Research & Development,2062,No,24744
+1885,Research & Development,4284,No,51408
+1886,Research & Development,4788,No,57456
+1888,Research & Development,5906,No,70872
+1890,Human Resources,3886,No,46632
+1892,Research & Development,16823,No,201876
+1893,Research & Development,2933,No,35196
+1898,Sales,6500,No,78000
+1900,Research & Development,17174,No,206088
+1903,Research & Development,5033,No,60396
+1905,Research & Development,2307,Yes,27684
+1907,Research & Development,2587,Yes,31044
+1908,Sales,5507,No,66084
+1909,Sales,4393,No,52716
+1911,Research & Development,13348,No,160176
+1912,Sales,6583,No,78996
+1915,Sales,8103,No,97236
+1916,Research & Development,3978,No,47736
+1918,Research & Development,2544,No,30528
+1922,Research & Development,5399,No,64788
+1924,Sales,5487,No,65844
+1927,Sales,6834,No,82008
+1928,Sales,1091,Yes,13092
+1929,Sales,5736,No,68832
+1931,Research & Development,2226,No,26712
+1932,Research & Development,5747,No,68964
+1933,Sales,9854,Yes,118248
+1934,Research & Development,5467,No,65604
+1935,Sales,5380,No,64560
+1936,Research & Development,5151,No,61812
+1937,Research & Development,2133,No,25596
+1938,Sales,17875,No,214500
+1939,Research & Development,2432,Yes,29184
+1940,Research & Development,4771,No,57252
+1941,Research & Development,19161,No,229932
+1943,Sales,5087,No,61044
+1944,Human Resources,2863,Yes,34356
+1945,Sales,5561,No,66732
+1947,Research & Development,2144,No,25728
+1948,Research & Development,3065,No,36780
+1949,Research & Development,2810,No,33720
+1950,Sales,9888,No,118656
+1951,Sales,8628,No,103536
+1952,Research & Development,2867,No,34404
+1954,Research & Development,5373,No,64476
+1955,Research & Development,6667,No,80004
+1956,Research & Development,5003,No,60036
+1960,Research & Development,2367,Yes,28404
+1961,Sales,2858,No,34296
+1962,Sales,5204,No,62448
+1965,Sales,4105,No,49260
+1966,Research & Development,9679,No,116148
+1967,Sales,5617,Yes,67404
+1968,Sales,10448,Yes,125376
+1969,Research & Development,2897,No,34764
+1970,Research & Development,5968,No,71616
+1971,Research & Development,7510,No,90120
+1972,Human Resources,2991,No,35892
+1973,Human Resources,19636,No,235632
+1974,Research & Development,1129,No,13548
+1975,Sales,13341,No,160092
+1976,Research & Development,4332,No,51984
+1979,Research & Development,11031,No,132372
+1980,Research & Development,4440,No,53280
+1981,Research & Development,4617,No,55404
+1982,Research & Development,2647,No,31764
+1985,Research & Development,6323,No,75876
+1986,Sales,5677,No,68124
+1987,Human Resources,2187,No,26244
+1989,Research & Development,3748,No,44976
+1992,Research & Development,3977,No,47724
+1993,Research & Development,8633,No,103596
+1994,Research & Development,2008,No,24096
+1995,Sales,4440,No,53280
+1996,Sales,3067,No,36804
+1997,Research & Development,5321,No,63852
+1998,Research & Development,5410,No,64920
+1999,Research & Development,2782,No,33384
+2000,Research & Development,11957,No,143484
+2003,Research & Development,2660,No,31920
+2007,Research & Development,3375,No,40500
+2008,Research & Development,5098,No,61176
+2009,Research & Development,4878,No,58536
+2010,Research & Development,2837,No,34044
+2012,Research & Development,2406,No,28872
+2013,Sales,2269,No,27228
+2014,Research & Development,4108,No,49296
+2015,Research & Development,13206,No,158472
+2016,Sales,10422,No,125064
+2017,Research & Development,13744,No,164928
+2018,Sales,4907,No,58884
+2019,Sales,3482,No,41784
+2020,Research & Development,2436,No,29232
+2021,Sales,2380,No,28560
+2022,Research & Development,19431,No,233172
+2023,Sales,1790,Yes,21480
+2024,Sales,7644,No,91728
+2025,Research & Development,5131,No,61572
+2026,Research & Development,6306,No,75672
+2027,Research & Development,4787,Yes,57444
+2031,Research & Development,18880,No,226560
+2032,Research & Development,2339,Yes,28068
+2034,Research & Development,13570,No,162840
+2035,Sales,6712,No,80544
+2036,Sales,5406,No,64872
+2037,Sales,8938,No,107256
+2038,Research & Development,2439,No,29268
+2040,Human Resources,8837,No,106044
+2041,Sales,5343,No,64116
+2044,Sales,6728,Yes,80736
+2045,Sales,6652,No,79824
+2046,Sales,4850,No,58200
+2048,Research & Development,2809,No,33708
+2049,Research & Development,5689,No,68268
+2051,Research & Development,2001,No,24012
+2052,Research & Development,2977,No,35724
+2053,Research & Development,4025,No,48300
+2054,Research & Development,3785,No,45420
+2055,Sales,10854,Yes,130248
+2056,Sales,12031,No,144372
+2057,Research & Development,9936,No,119232
+2060,Sales,2966,No,35592
+2061,Research & Development,2571,No,30852
+2062,Research & Development,9991,No,119892
+2064,Research & Development,6142,No,73704
+2065,Sales,5390,No,64680
+2068,Research & Development,4404,No,52848
