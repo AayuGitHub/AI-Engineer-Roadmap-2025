@@ -12,7 +12,7 @@ class EmployeeManager:
         for _, row in df.iterrows():
             emp = Employee(
                 emp_id=row["EmployeeNumber"],
-                name=row["EmployeeNumber"],
+                name=row["EmployeeName"],
                 department=row["Department"],
                 salary=row["MonthlyIncome"],
                 attrition=row["Attrition"],
